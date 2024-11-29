@@ -1,6 +1,6 @@
 ### Dataset and Analysis Code for an Experiment on Phosphorus Fertilizers
 
-![image](https://github.com/user-attachments/assets/78ecb1db-b296-4099-9556-6001c50aa6be)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247221.svg)](https://doi.org/10.5281/zenodo.14247221)
 
 
 This repository includes the R script and a subset of the data from a manuscript currently under review, focused on the characterization and agronomic efficiency of natural and recovered phosphates in tropical soil with corrected acidity for maize cultivation. The study is part of the Master’s Dissertation of Ramos, J.F.K. (Ramos, J.F.K. 2023. Caracterização química, mineralógica e eficiência agronômica de diferentes fosfatos [Dissertation]. Universidade Federal Rural do Rio de Janeiro, Seropédica, Brasil).  Available in: https://rima.ufrrj.br/jspui/handle/20.500.14407/18645.
