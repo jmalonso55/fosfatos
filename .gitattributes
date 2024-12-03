@@ -1,0 +1,9 @@
+# Set the language of specific file types
+*.R linguist-language=R
+*.Rmd linguist-language=R
+*.md linguist-language=Markdown
+
+
+# Exclude files from language stats
+*.csv linguist-detectable=false
+*.txt linguist-detectable=false
